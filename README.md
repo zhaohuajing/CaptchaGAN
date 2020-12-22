@@ -9,7 +9,7 @@
 
 
 
-
+balabala
 
 
 
@@ -26,11 +26,19 @@ tensorflow==1.15.2
 matplotlib==3.1.1 
 
 ### Usage
-#### Training target model, AdvGAN and Testing
+#### Download dataset if not exist, train target model, AdvGAN and then test
 ```
 python main.py
 ```
 
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/51.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/52.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/53.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/54.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/31.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/32.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/33.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/34.png)
 
 ## Captcha-VUE
 
