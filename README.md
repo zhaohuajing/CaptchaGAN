@@ -33,7 +33,7 @@ matplotlib==3.1.1
 
 ### Environment
 vue==2.6.11  
-vue-router3.4.9  
+vue-router==3.4.9  
 vue-cli==4.5.0  
 element-ui==2.14.1  
 
@@ -49,6 +49,6 @@ npm install
 npm run serve
 ```
 
-
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/GUI.jpg)
 
 ## Captcha-Solver
