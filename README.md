@@ -74,7 +74,17 @@ npm run serve
 
 ## Captcha-Solver
 
-This tensor-flow based 4-layer CNN captcha solver is presented as the simulated AI side of the human-AI evaluations. The python code is an implementation of https://github.com/zhaohuajing/captcha_recognize, with a virtual environment set ready to use in folder ./captcha_solver/venv. The training and validation data are already generated and converted with 50000 captcha samples and 17300 training steps. The script ./captcha_solver/captcha_recognize/captcha_match.py is used to check whether the provided captcha images in the UI matches with the target captcha sample.
+This tensor-flow based 4-layer CNN captcha solver is presented as the simulated AI side of the human-AI evaluations. The python code is an implementation of https://github.com/zhaohuajing/captcha_recognize, with a virtual environment set ready to use, and can set up with
+```
+cd ./captcha_solver/venv
+. ./bin/activate
+```
+
+The training and validation data are already generated and converted with 50000 captcha samples and 17300 training steps. The script
+```
+./captcha_solver/captcha_recognize/captcha_match.py
+```
+is used to check whether the provided captcha images in the UI matches with the target captcha sample.
 
 ## Reference
 Xiao, Chaowei, et al. "Generating adversarial examples with adversarial networks." arXiv preprint arXiv:1801.02610 (2018).
