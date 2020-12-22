@@ -30,21 +30,24 @@ matplotlib==3.1.1
 
 
 ## Captcha-VUE
+
 ### Environment
-VUE 2
-VUE-CLI
+vue==2.6.11  
+vue-router3.4.9  
+vue-cli==4.5.0  
+element-ui==2.14.1  
+
 
 ### Usage
-## Project setup
+#### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
-
-
+```
 
 
 
