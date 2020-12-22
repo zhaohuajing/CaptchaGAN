@@ -35,10 +35,21 @@ python main.py
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/52.png)
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/53.png)
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/54.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/55.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/56.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/57.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/58.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/59.png)
+
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/31.png)
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/32.png)
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/33.png)
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/34.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/35.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/36.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/37.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/38.png)
+![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/Captcha-VUE/src/assets/img/39.png)
 
 ## Captcha-VUE
 
