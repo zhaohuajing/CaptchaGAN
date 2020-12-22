@@ -74,3 +74,11 @@ npm run serve
 ![image](https://github.com/zhaohuajing/CaptchaGAN/blob/main/GUI.jpg)
 
 ## Captcha-Solver
+
+## Reference
+Xiao, Chaowei, et al. "Generating adversarial examples with adversarial networks." arXiv preprint arXiv:1801.02610 (2018).
+https://arxiv.org/pdf/1801.02610.pdf  
+
+Modified from  
+https://github.com/mathcbc/advGAN_pytorch/blob/master/advGAN.py  
+https://github.com/GiorgosKarantonis/Adversarial-Attacks-with-Relativistic-AdvGAN  
