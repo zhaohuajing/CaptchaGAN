@@ -26,7 +26,10 @@ tensorflow==1.15.2
 matplotlib==3.1.1 
 
 ### Usage
-
+#### Training target model, AdvGAN and Testing
+```
+python main.py
+```
 
 
 ## Captcha-VUE
