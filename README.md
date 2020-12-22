@@ -74,7 +74,7 @@ npm run serve
 
 ## Captcha-Solver
 
-This tensor-flow based 4-layer CNN captcha solver is presented as the simulated AI side of the human-AI evaluations. The python code is an implementation of https://github.com/zhaohuajing/captcha_recognize, with a virtual environment set ready to use, and can set up with
+This tensor-flow based 4-layer CNN captcha solver is presented as the simulated AI side of the human-AI evaluations. The python code is an implementation of https://github.com/PatrickLib/captcha_recognize, with a virtual environment set ready to use, and can set up with
 ```
 cd ./captcha_solver/venv
 . ./bin/activate
@@ -93,4 +93,4 @@ https://arxiv.org/pdf/1801.02610.pdf
 Modified from  
 https://github.com/mathcbc/advGAN_pytorch/blob/master/advGAN.py  
 https://github.com/GiorgosKarantonis/Adversarial-Attacks-with-Relativistic-AdvGAN  
-https://github.com/zhaohuajing/captcha_recognize
+https://github.com/PatrickLib/captcha_recognize
